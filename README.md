@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Comodins
-- 👀 I’m interested in short pc with a linux error code
+- 👀 I’m interested in shorting pc's with a linux error code
 - 🌱 I’m currently learning to login by an SSH server without blowing my town's internet
 - 💞️ I’m looking to collaborate on blowing other things
 - 📫 How to reach me leonardocomodini@gmail.com
