@@ -3,7 +3,8 @@
 - 🌱 I’m currently learning to login by an SSH server without blowing my town's internet
 - 💞️ I’m looking to collaborate on blowing other things
 - 📫 How to reach me leonardocomodini@gmail.com
-- 😄 Pronouns: :D
++39 366 480 1973
+- 😄 Pronouns:no pronouns,i'm fascist ;)
 - ⚡ Fun fact: i have a slow pc :D
 
 <!---
